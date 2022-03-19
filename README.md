@@ -44,3 +44,4 @@ cd backend/interiitbackend
 pip install -r requirements.txt
 npm run django
 ```
+5. Link of hosted website: https://digitalalphateam18.netlify.app
