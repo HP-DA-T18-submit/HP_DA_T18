@@ -1,6 +1,8 @@
 # HP_DA_T18
 ## Inter IIT Tech Meet 10.0 Digital ALpha.
 
+![alt text](![WhatsApp Image 2022-03-19 at 11 40 19 PM](https://user-images.githubusercontent.com/101939846/159133370-4ef6fb92-7086-4423-a731-5694dde98b98.jpeg))
+
 ### How to run our project?
 
 1. There are 3 parts to our project : Client, NodeJs and Django.
