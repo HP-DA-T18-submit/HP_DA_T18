@@ -1,7 +1,7 @@
 # HP_DA_T18
 ## Inter IIT Tech Meet 10.0 Digital ALpha.
 
-<img src="https://user-images.githubusercontent.com/101939846/159133370-4ef6fb92-7086-4423-a731-5694dde98b98.jpeg" width="1000" height="1000" align="center">
+<img src="https://user-images.githubusercontent.com/101939846/159133370-4ef6fb92-7086-4423-a731-5694dde98b98.jpeg" width="700" height="500" align="center">
 
 ### How to run our project?
 
